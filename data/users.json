@@ -1,0 +1,69 @@
+[
+    {
+        "title": "Mr",
+        "firstName": "Edson Gomes dos",
+        "lastName": "Junior",
+        "email": "edyz86@hotmail.com",
+        "role": "Admin",
+        "password": "123123",
+        "id": 1,
+        "dateCreated": "2021-07-08T15:09:38.477Z",
+        "dateUpdated": "2021-07-08T15:09:38.477Z"
+    },
+    {
+        "title": "Mrs",
+        "firstName": "Rita de Cássia de Oliveira Santos",
+        "lastName": "",
+        "email": "rmeventos@hotmail.com.br",
+        "role": "User",
+        "password": "123",
+        "id": 3,
+        "dateUpdated": "2021-07-09T00:01:11.821Z",
+        "dateCreated": "2021-07-09T00:01:11.821Z"
+    },
+    {
+        "title": "Mrs",
+        "firstName": "omg",
+        "lastName": "d",
+        "email": "e",
+        "role": "Admin",
+        "password": "123",
+        "id": 4,
+        "dateUpdated": "2021-07-09T00:06:52.733Z",
+        "dateCreated": "2021-07-09T00:06:52.733Z"
+    },
+    {
+        "title": "Mr",
+        "firstName": "Edson Gomes dos",
+        "lastName": "Junior",
+        "email": "aex@aex.com",
+        "role": "User",
+        "password": "123",
+        "id": 6,
+        "dateUpdated": "2021-07-09T00:21:14.935Z",
+        "dateCreated": "2021-07-09T00:21:14.935Z"
+    },
+    {
+        "title": "Miss",
+        "firstName": "aeae",
+        "lastName": "aeea",
+        "email": "paulo_henriqueos@hotmail.com",
+        "role": "Admin",
+        "password": "123",
+        "id": 7,
+        "dateUpdated": "2021-07-09T00:43:52.283Z",
+        "dateCreated": "2021-07-09T00:43:52.283Z"
+    },
+    {
+        "title": "Miss",
+        "firstName": "aeae",
+        "lastName": "aeea",
+        "email": "paulo_32nriqueos@hotmail.com",
+        "role": "Admin",
+        "password": "123",
+        "id": 8,
+        "dateUpdated": "2021-07-09T00:51:26.414Z",
+        "dateCreated": "2021-07-09T00:51:26.414Z"
+    }
+ 
+]
